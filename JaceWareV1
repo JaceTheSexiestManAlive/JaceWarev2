@@ -1,7 +1,1 @@
-wait(1.2)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Discontinued"; --
-Text = ""; 
-Icon = ""; 
-Duration = 5; --
-})
+
